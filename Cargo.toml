@@ -1,0 +1,7 @@
+[package]
+name = "slk581"
+version = "0.0.0"
+authors = ["antklim <antklim@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
