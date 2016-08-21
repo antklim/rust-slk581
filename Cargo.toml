@@ -1,10 +1,10 @@
 [package]
 name = "slk581"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Anton Klimenko <antklim@gmail.com>"]
 description = "Implementation of SLK581"
 repository = "https://github.com/antklim/rust-slk581.git"
-documentation = "https://antklim.github.io/docs/rust-slk581/rust-slk581/index.html"
+documentation = "https://antklim.github.io/docs/rust-slk581/slk581/index.html"
 readme = "README.md"
 keywords = ["SLK581"]
 license = "MIT"
